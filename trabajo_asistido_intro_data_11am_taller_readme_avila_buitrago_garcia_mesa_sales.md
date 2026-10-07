@@ -32,9 +32,9 @@ Para explicar en detalle este proyecto en ciencia de datos el documento tiene la
 <details>
 <summary>Haga click para desplegar</summary>
   
-1. **Recoleción de datos:** Detalle sobre el método de recopilación de Aleksandr Kogan y las herramientas utilizadas.
+1. **Recolección de datos:** Detalle sobre el método de recopilación de Aleksandr Kogan y las herramientas utilizadas.
 2. **Procesamiento de datos:** Estrategia de analisis aplicada por Cambridge Analytica.
-3. **Implicaciones eticas y conclusiones:** Reflexión sobre la responsabilidad en Ciencia de Datos y el impacto en la gobernanza de datos actual.
+3. **Implicaciones éticas y conclusiones:** Reflexión sobre la responsabilidad en Ciencia de Datos y el impacto en la gobernanza de datos actual.
    
 </details>
   
